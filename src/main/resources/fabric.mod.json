@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "chinese_cuisines",
+	"version": "${version}",
+	"name": "Chinese Cuisines",
+	"description": "这是一个有中国美食的模组！",
+	"authors": [
+		"小矾同学"
+	],
+	"contact": {
+		"homepage": "https://oecklab.com/",
+		"sources": "https://github.com/aloums/ChineseCuisinesMod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/chinese_cuisines/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.oecklab.chinesecuisines.ChineseCuisines"
+		],
+		"Client": [
+			"com.oecklab.chinesecuisines.ChineseCuisines"
+		],
+		"fabric-datagen": [
+			"com.oecklab.chinesecuisines.ChineseCuisinesDataGenerator"
+		]
+	},
+	"mixins": [
+		"chinese_cuisines.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
