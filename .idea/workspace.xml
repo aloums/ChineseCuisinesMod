@@ -4,7 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8180544a-e1bb-4073-8e95-9c91ae3cf514" name="更改" comment="" />
+    <list default="true" id="8180544a-e1bb-4073-8e95-9c91ae3cf514" name="更改" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-11-25-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-11-25-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-11-25-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-11-25-4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM-1/data/raids.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM1/data/raids_end.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/17b67947-156d-3518-9500-f7e04df5e64d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/7328fbd9-6879-3343-b321-ed1f1a1e9892.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/79f8754e-14dd-38b7-8860-09cab9cfb920.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/aed5efd4-551b-3965-bc28-ae21aa072a66.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/data/raids.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/data/random_sequences.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/entities/r.-1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/entities/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/entities/r.0.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/entities/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/17b67947-156d-3518-9500-f7e04df5e64d.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/17b67947-156d-3518-9500-f7e04df5e64d.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/7328fbd9-6879-3343-b321-ed1f1a1e9892.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/7328fbd9-6879-3343-b321-ed1f1a1e9892.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/79f8754e-14dd-38b7-8860-09cab9cfb920.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/79f8754e-14dd-38b7-8860-09cab9cfb920.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/aed5efd4-551b-3965-bc28-ae21aa072a66.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/poi/r.-1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/poi/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/poi/r.0.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/poi/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.-1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/session.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/17b67947-156d-3518-9500-f7e04df5e64d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/7328fbd9-6879-3343-b321-ed1f1a1e9892.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/79f8754e-14dd-38b7-8860-09cab9cfb920.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/aed5efd4-551b-3965-bc28-ae21aa072a66.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oecklab/chinesecuisines/item/ModItemGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oecklab/chinesecuisines/item/ModItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/chinese_cuisines/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/chinese_cuisines/lang/zh_cn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/chinese_cuisines/models/item/bean_juice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/chinese_cuisines/models/item/fired_ring.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/chinese_cuisines/models/item/salted_vegetable.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/chinese_cuisines/textures/item/bean_juice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/chinese_cuisines/textures/item/fired_ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/chinese_cuisines/textures/item/salted_vegetable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oecklab/chinesecuisines/ChineseCuisines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oecklab/chinesecuisines/ChineseCuisines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +100,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -44,17 +110,32 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2YeaSo3igbXOCIv9LMhLQQ8Ujxc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shidu/Desktop/Projects/Chinese Cuisines/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-51c0cfe141/1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2/minecraft-merged-51c0cfe141-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2-sources.jar&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "1.20",
+    "last_opened_file_path": "C:/Users/Shidu/Desktop/Projects/Chinese Cuisines/src/main/resources/assets/chinese_cuisines",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
-  <component name="RunManager" selected="Gradle.Chinese Cuisines [runClient]">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shidu\Desktop\Projects\Chinese Cuisines\src\main\resources\assets\chinese_cuisines" />
+      <recent name="C:\Users\Shidu\Desktop\Projects\Chinese Cuisines\src\main\resources\assets\chinese_cuisines\lang" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Minecraft Client">
     <configuration name="Chinese Cuisines [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -92,6 +173,31 @@
       <option name="presentableId" value="Default" />
       <updated>1700888504444</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1700889597679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700889597679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>

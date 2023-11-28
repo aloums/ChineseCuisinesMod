@@ -1,5 +1,7 @@
 package com.oecklab.chinesecuisines;
 
+import com.oecklab.chinesecuisines.item.ModItemGroups;
+import com.oecklab.chinesecuisines.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +13,7 @@ public class ChineseCuisines implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		ModItemGroups.registerItemGroups();
+		ModItems.registerModItems();
 	}
 }
