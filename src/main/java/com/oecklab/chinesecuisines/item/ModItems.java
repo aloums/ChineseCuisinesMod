@@ -11,14 +11,12 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
-    public static final Item BEAN_JUICE = registerItem("bean_juice", new Item(new FabricItemSettings()));
-    public static final Item FRIED_RING = registerItem("fired_ring", new Item(new FabricItemSettings()));
-    public static final Item SALTED_VEGETABLE = registerItem("salted_vegetable", new Item(new FabricItemSettings()));
+    public static final Item BEAN_JUICE = registerItem("bean_juice", new Item(new FabricItemSettings().food(ModFoodComponents.BEAN_JUICE)));
+    public static final Item FRIED_RING = registerItem("fired_ring", new Item(new FabricItemSettings().food(ModFoodComponents.FRIED_RING)));
+    public static final Item SALTED_VEGETABLE = registerItem("salted_vegetable", new Item(new FabricItemSettings().food(ModFoodComponents.SALTED_VEGETABLE)));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
-        entries.add(BEAN_JUICE);
-        entries.add(FRIED_RING);
-        entries.add(SALTED_VEGETABLE);
+
     }
 
     private static Item registerItem(String name, Item item) {
